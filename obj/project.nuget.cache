@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdwMWnwgfclu6UYIGxoxI/Bt8RclYH9laT3VLxGD/3HTgQN76LbSivYwya1yCCS/a1zqfbau3ORO+/VF4H5VOA==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectWork\\Web Development\\ASP.Net Test\\New folder\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
